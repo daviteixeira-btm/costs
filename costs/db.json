@@ -12,11 +12,11 @@
       "id": 2
     },
     {
-      "name": "Meu projeto 1",
-      "budget": "2000",
+      "name": "Design do Portfólio",
+      "budget": "1700",
       "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
+        "id": "3",
+        "name": "Design"
       },
       "cost": 0,
       "services": [],
