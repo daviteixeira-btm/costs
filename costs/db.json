@@ -1,14 +1,21 @@
 {
   "projects": [
     {
-      "name": "Meu projeto 1",
+      "name": "Criação de Landing page",
       "budget": "3000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 500,
+      "services": [
+        {
+          "name": "design do projeto",
+          "cost": "500",
+          "description": "Frella das telas iniciais do projeto",
+          "id": "ec5fb4ea-66eb-4e8c-b538-ed27489b6b18"
+        }
+      ],
       "id": 2
     },
     {
