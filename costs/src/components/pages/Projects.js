@@ -1,5 +1,5 @@
-import { useState, useEffect } from "react"
 import { useLocation } from "react-router-dom"
+import { useState, useEffect } from "react"
 import Message from "../layout/Message"
 import Container from '../layout/Container'
 import Loading from "../layout/Loading"
@@ -15,6 +15,7 @@ function Projects(){
 
     const location = useLocation()
     let message = ''
+
     if(location.state){
         message = location.state.message
     }
